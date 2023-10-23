@@ -1,0 +1,7 @@
+C:\CursoLuizDev\ServerlessAWSeNet\MinhaPrimeiraLambda\src\MinhaPrimeiraLambda\bin\Release\net6.0\publish\MinhaPrimeiraLambda.deps.json
+C:\CursoLuizDev\ServerlessAWSeNet\MinhaPrimeiraLambda\src\MinhaPrimeiraLambda\bin\Release\net6.0\publish\MinhaPrimeiraLambda.runtimeconfig.json
+C:\CursoLuizDev\ServerlessAWSeNet\MinhaPrimeiraLambda\src\MinhaPrimeiraLambda\bin\Release\net6.0\publish\MinhaPrimeiraLambda.pdb
+C:\CursoLuizDev\ServerlessAWSeNet\MinhaPrimeiraLambda\src\MinhaPrimeiraLambda\bin\Release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\CursoLuizDev\ServerlessAWSeNet\MinhaPrimeiraLambda\src\MinhaPrimeiraLambda\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\CursoLuizDev\ServerlessAWSeNet\MinhaPrimeiraLambda\src\MinhaPrimeiraLambda\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\CursoLuizDev\ServerlessAWSeNet\MinhaPrimeiraLambda\src\MinhaPrimeiraLambda\bin\Release\net6.0\publish\MinhaPrimeiraLambda.dll

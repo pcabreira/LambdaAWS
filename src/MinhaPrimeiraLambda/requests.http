@@ -1,0 +1,10 @@
+﻿POST https://2h567uyjwks2vypgtiluqxm4qi0zamxj.lambda-url.us-east-2.on.aws/
+{
+	"nome": "Pedro Teste"
+}
+
+
+PUT https://2h567uyjwks2vypgtiluqxm4qi0zamxj.lambda-url.us-east-2.on.aws/
+{
+	"nome": "Pedro Teste"
+}
